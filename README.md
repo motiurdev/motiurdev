@@ -21,4 +21,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=motiurdev&theme=dark&show_icons=true&locale=en" alt="motiurdev" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motiurdev&layout=compact)](https://github.com/motiurdev/github-readme-stats)
 
