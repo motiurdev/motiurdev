@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Everything**
 
-- 👨‍💻 All of my projects are available at [https://github.com/motiurdev](https://github.com/motiurdev)
+- 👨‍💻 All of my projects are available at [https://github.com/motiurdev](https://github.com/motiurdev?tab=repositories)
 
 - 💬 Ask me about **HTML, CSS, Javascript**
 
