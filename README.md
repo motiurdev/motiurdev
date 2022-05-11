@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Motiur Rahman</h1>
-<h3 align="center">A passionate React Developer developer. Every day I am trying to learn new things.</h3>
+<h3 align="center">A passionate Web Development. Every day I am trying to learn new things.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/motiurdev?tab=repositories](https://github.com/motiurdev?tab=repositories)
 
